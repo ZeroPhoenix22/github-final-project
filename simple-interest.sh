@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # ZeroPhoenix22 (Cory Moore)
 
    # Input:
    # p, principal amount
